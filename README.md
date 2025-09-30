@@ -1,4 +1,4 @@
-<i>
+<i> align="centre" 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Syed+Nabeel!;Python+Developer👨🏻‍💻;" style="width: 100%;">
 
 <a href="https://github.com/nabeelsyed11/github-readme-stats">
@@ -166,4 +166,5 @@
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
 </div>
+</i>
 </i>
