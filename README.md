@@ -178,4 +178,4 @@ align="centre"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&layout=donut)](https://github.com/nabeelsyed11/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/nabeelsyed11/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nabeelsyed11)](https://github.com/nabeelsyed11/github-readme-stats)
