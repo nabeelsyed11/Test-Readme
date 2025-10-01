@@ -168,3 +168,5 @@
 </div>
 </i>
 </i>
+
+![Syed Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelsyed11&theme=dark&show_icons=true)
