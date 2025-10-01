@@ -1,4 +1,5 @@
-<i> align="centre" 
+<i>
+align="centre" 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Syed+Nabeel!;Python+Developer👨🏻‍💻;" style="width: 100%;">
 
 <a href="https://github.com/nabeelsyed11/github-readme-stats">
@@ -170,3 +171,6 @@
 </i>
 
 ![Syed Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelsyed11&theme=transparent&show_icons=true)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nabeelsyed11)](https://github.com/anuraghazra/github-readme-stats)
