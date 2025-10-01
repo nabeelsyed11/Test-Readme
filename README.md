@@ -174,3 +174,6 @@ align="centre"
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&stats_format=bytes)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&layout=donut-vertical)](https://github.com/nabeelsyed11/github-readme-stats)
