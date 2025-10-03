@@ -1,5 +1,4 @@
 <i>
-align="centre" 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Syed+Nabeel!;Python+Developer👨🏻‍💻;" style="width: 100%;">
 
 <a href="https://github.com/nabeelsyed11/github-readme-stats">
